@@ -2,14 +2,11 @@
 layout: about
 permalink: /
 title: <strong>Byung-Il Oh</strong>
-description:
 
 profile:
   align: right
   image: prof_pic.jpg
-  address:
 
-news: false
 social: true
 ---
 
