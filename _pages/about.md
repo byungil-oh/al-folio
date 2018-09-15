@@ -14,4 +14,4 @@ Welcome! I'm Byung-Il Oh, currently performing my mandatory military service in 
 
 Prior to this, I obtained my Bachelor's degrees in psychology and convergence software at <a href="https://www.skku.edu/">Sungkyunkwan University</a> in the Republic of Korea. I had worked as a research assistant at <a href="https://sites.google.com/view/vcnlskku/vcnl-lab">VCLA</a> under the supervision of Min-Suk Kang for three and half years. I studied ensemble representations and visual working memory in human with behavioral tasks, electroencephalography, and machine learning algorithms.
 
-For further information, please see my curriculum vitae! Thank you.
+For further information, please see my <a href="{{ '/cv.pdf' | prepend: site.baseurl | prepend: site.url }}">curriculum vitae</a>! Thank you.
