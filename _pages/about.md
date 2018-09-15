@@ -5,7 +5,7 @@ title: <strong>Byung-Il Oh</strong>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
 
 social: true
 ---
