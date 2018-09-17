@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 name: Byung-Il Oh
 email: bioh.inbox@gmail.com
-description: # this means to ignore newlines until "url:"
+description: Personal profile page of Byung-Il Oh # this means to ignore newlines until "url:"
 footer_text: 
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
