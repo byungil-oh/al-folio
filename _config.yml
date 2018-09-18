@@ -40,8 +40,10 @@ plugins:
     - jekyll-email-protect
     - jekyll-paginate
     - jekyll-seo-tag
+    - jekyll-sitemap
     - jekyll/scholar
     - jemoji
+
 
 # -----------------------------------------------------------------------------
 # Other settings
