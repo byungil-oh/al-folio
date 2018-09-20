@@ -7,6 +7,7 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-paginate'
     gem 'jekyll-scholar'
+    gem 'jekyll-feed'
     gem 'jemoji'
     gem 'unicode_utils'
 end
