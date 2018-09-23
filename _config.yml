@@ -29,7 +29,7 @@ google_analytics: UA-125812510-1 # out your google-analytics code
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 # Includes & excludes
 include: ['_pages']
@@ -41,6 +41,7 @@ plugins:
     - jekyll-paginate
     - jekyll-seo-tag
     - jekyll-sitemap
+    - jekyll-feed
     - jekyll/scholar
     - jemoji
 
