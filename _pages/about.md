@@ -16,4 +16,4 @@ Prior to this, I obtained my Bachelor's degrees in psychology and convergence so
 
 I plan to apply for Ph. D. programs. For further details, please see my <a href="{{ '/cv.pdf' | prepend: site.baseurl | prepend: site.url }}">curriculum vitae</a>. Thank you!
 
-<p style="text-align:center;">Learn for free</p>
+<div style="text-align: right">(Last Updated: January 10, 2019)</div>
