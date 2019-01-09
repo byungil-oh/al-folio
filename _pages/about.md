@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Byung-Il Oh</strong>
+title: <strong>BYUNG-IL OH</strong>
 
 profile:
   align: right
