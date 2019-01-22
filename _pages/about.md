@@ -18,4 +18,4 @@ I plan to apply for Ph. D. programs. For further details, please see my <a href=
 
 
 
-<div style="text-align: right">(Last Updated: January 10, 2019)</div>
+<div style="text-align: right">(Last Updated: January 23, 2019)</div>
