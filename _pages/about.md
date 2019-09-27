@@ -7,7 +7,7 @@ profile:
   align: right
   image: profile.jpg
 
-social: true
+social: false
 ---
 
 Welcome! I'm Byung-Il Oh, currently performing my mandatory military service as KATUSA from October 2018 to May 2020.
