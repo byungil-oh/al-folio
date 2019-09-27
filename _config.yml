@@ -13,13 +13,12 @@ show_downloads: true
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-github_username: byungil-oh # your GitHub user name
-twitter_username: byungil_oh # your Twitter handle
-linkedin_username: byung-il-oh-aa0468156 # your LinkedIn user name
+github_username:  # your GitHub user name
+twitter_username:  # your Twitter handle
+linkedin_username:  # your LinkedIn user name
 scholar_userid: 5X2clUkAAAAJ # your Google Scholar ID
 orcid_id: 0000-0003-2359-9397 # your ORCID ID
 contact_note: >
-  Contact me at any time :)
 
 google_analytics: UA-125812510-1 # out your google-analytics code
 
